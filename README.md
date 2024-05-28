@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glécia MAINDRON</h1>
-<h3 align="center">A developer Junior Java/Python</h3>
+<h3 align="center">Aspiring Application Developer Specializing in Python/Java</h3>
 
 - 🌱 I’m currently learning **Python/DJANGO**
 
