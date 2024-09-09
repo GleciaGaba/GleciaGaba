@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glécia MAINDRON</h1>
 <h3 align="center">Aspiring Application Developer Specializing in Python/Java</h3>
 
-- 🌱 I’m currently learning **Python/DJANGO**
+- 🌱 I’m currently learning **Python/DJANGO**, **Java/Spring** and **JavaScript/REACT**
 
 - 📫 How to reach me **www.linkedin.com/in/maindron-glecia**
 
